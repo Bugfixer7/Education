@@ -1,0 +1,6 @@
+D:\SVN\TestsIframe\Grades\Grades\bin\Debug\Grades.exe.config
+D:\SVN\TestsIframe\Grades\Grades\bin\Debug\Grades.exe
+D:\SVN\TestsIframe\Grades\Grades\bin\Debug\Grades.pdb
+D:\SVN\TestsIframe\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+D:\SVN\TestsIframe\Grades\Grades\obj\Debug\Grades.exe
+D:\SVN\TestsIframe\Grades\Grades\obj\Debug\Grades.pdb
