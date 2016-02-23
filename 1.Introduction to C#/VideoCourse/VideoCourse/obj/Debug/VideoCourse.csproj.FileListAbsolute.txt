@@ -1,0 +1,5 @@
+D:\SVN\TestsIframe\VideoCourse\VideoCourse\bin\Debug\VideoCourse.exe.config
+D:\SVN\TestsIframe\VideoCourse\VideoCourse\bin\Debug\VideoCourse.exe
+D:\SVN\TestsIframe\VideoCourse\VideoCourse\bin\Debug\VideoCourse.pdb
+D:\SVN\TestsIframe\VideoCourse\VideoCourse\obj\Debug\VideoCourse.exe
+D:\SVN\TestsIframe\VideoCourse\VideoCourse\obj\Debug\VideoCourse.pdb
