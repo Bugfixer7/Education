@@ -1,0 +1,7 @@
+D:\SVN\TestsIframe\3.Types and Assemblies\Grades\Grades.Tests\obj\Debug\Grades.Tests.csprojResolveAssemblyReference.cache
+D:\SVN\TestsIframe\3.Types and Assemblies\Grades\Grades.Tests\bin\Debug\Grades.Tests.dll
+D:\SVN\TestsIframe\3.Types and Assemblies\Grades\Grades.Tests\bin\Debug\Grades.Tests.pdb
+D:\SVN\TestsIframe\3.Types and Assemblies\Grades\Grades.Tests\obj\Debug\Grades.Tests.dll
+D:\SVN\TestsIframe\3.Types and Assemblies\Grades\Grades.Tests\obj\Debug\Grades.Tests.pdb
+D:\SVN\TestsIframe\3.Types and Assemblies\Grades\Grades.Tests\bin\Debug\Grades.exe
+D:\SVN\TestsIframe\3.Types and Assemblies\Grades\Grades.Tests\bin\Debug\Grades.pdb
